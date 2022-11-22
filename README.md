@@ -32,4 +32,6 @@
 Ser paciente e persistente na busca de novos conhecimentos! 📚❤️
 <div><br/>
 
-![Snake animation](https://github.com/RenanLucas19)
+![Snake animation](https://github.com/RenanLucas19/RenanLucas19/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>

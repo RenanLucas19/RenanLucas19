@@ -30,3 +30,6 @@
 
 <div><br/>
 Ser paciente e persistente na busca de novos conhecimentos! 📚❤️
+<div><br/>
+
+![Snake animation](https://github.com/RenanLucas19)

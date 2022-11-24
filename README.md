@@ -1,13 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Renan+Lucas;I'm+20+years+old;I'm+from+Brazil;I'm+a+Stutent+in+Information+technology;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Renan+Lucas;I'm+20+years+old;I'm+from+Brazil;I'm+a+Stutent+in+Information+technology;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RenanLucas19&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=00BFFF" alt="Renan Lucas github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanLucas19&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=00BFFF" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RenanLucas19&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="Renan Lucas github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanLucas19&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000" />
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=RenanLucas19&bg_color=00bfff&color=000000&line=0924f1&point=81efd9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=RenanLucas19&bg_color=000000&color=ffffff&line=ffffff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## Tecnologias graficas que tenho dominio 🚀
 
 <div style="display: inline_block"><br/>
@@ -49,4 +49,4 @@ Ser paciente e persistente na busca de novos conhecimentos! 📚❤️
 <br>
 
  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
